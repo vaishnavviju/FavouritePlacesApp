@@ -3,12 +3,10 @@ This is a Favorite Places app made using flutter. It can be used to add your fav
 The data is added and accessed using providers and notifiers. 
 We do a local (on-device) storage and sql storage in this project.
 
-![image](https://github.com/vaishnavviju/PlacesApp/assets/95471125/b8ec750a-bd36-4c8a-a7b3-5f0832e2dcdd)
+![image](https://github.com/vaishnavviju/FavouritePlacesApp/assets/95471125/94f8f1e2-2a50-49fe-ba4d-977ed970f442)
 
-![image](https://github.com/vaishnavviju/PlacesApp/assets/95471125/fd3a31c8-418f-4a53-a2af-364479ffed87)
+![image](https://github.com/vaishnavviju/FavouritePlacesApp/assets/95471125/fac476ab-9fbc-4ac5-aa66-75d656ae45fe)
 
-![image](https://github.com/vaishnavviju/PlacesApp/assets/95471125/775e46a7-da0b-43ce-965e-9761bac4d22c)
+![image](https://github.com/vaishnavviju/FavouritePlacesApp/assets/95471125/19bd6263-d15b-41d8-820e-fc148d6dfd24)
 
-![image](https://github.com/vaishnavviju/PlacesApp/assets/95471125/7be2918a-6b3c-45f0-9997-24be7301a3a5)
-
-![image](https://github.com/vaishnavviju/PlacesApp/assets/95471125/51616fb3-3e6b-4968-8311-556e9befa488)
+![image](https://github.com/vaishnavviju/FavouritePlacesApp/assets/95471125/32789ab3-324a-4ef5-8f1e-985ad266a28f)
